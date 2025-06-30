@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="PetRalseiClickerGame">
+    <output-path>$PROJECT_DIR$/out/artifacts/PetRalseiClickerGame</output-path>
+    <root id="root">
+      <element id="archive" name="PetRalseiClickerGame.jar">
+        <element id="module-output" name="PetRalseiClickerGame" />
+      </element>
+    </root>
+  </artifact>
+</component>
